@@ -1,8 +1,7 @@
-# 목차
-1. Issues
-2. PR
+# Issue
 
-## Issues
+
+
 ## 1. 주제선정
 ![image](https://user-images.githubusercontent.com/18400730/181136497-a4017811-82a1-44c3-a35d-8fe68ceb2696.png)
 기간에 맞는 주제를 선정하세요.
