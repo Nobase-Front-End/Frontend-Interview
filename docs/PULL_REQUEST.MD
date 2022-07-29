@@ -24,3 +24,22 @@ https://github.com/Nobase-Front-End/Frontend-Interview 사이트에 들어가서
 Terminal을 git bash로 선택
 git init으로 git 초기화
 git switch -c 이름/문제번호
+
+
+## 7. N주차/문제번호_주제 (예시 : 1주차/005_CSR_SSR_김연아)로 파일 생성
+![image](https://user-images.githubusercontent.com/18400730/181666653-40856410-d354-45bc-9af5-07921d659ee1.png)
+
+
+## 8. Branch 생성 후 push
+![image](https://user-images.githubusercontent.com/18400730/181666936-aa2bb741-0853-4348-9a0c-fe807c146e78.png)
+우선 git status로 현재 branch를 확인한다. 만일 On branch main인 경우에는, 
+git checkout -b "이름/문제번호" 를 사용하여 브랜치를 생성한다.
+git status로 브랜치를 확인하여 맞다면, git add 파일명을 통하여 파일을 스테이지로 올린다
+git commit -m "Resolve #문제번호"로 커밋한다. 마무리로 git push origin 브랜치이름을 입력한다.
+
+## 9. Pull request
+![image](https://user-images.githubusercontent.com/18400730/181667471-0b442255-cb64-469c-8a26-fd40653f362d.png)
+![image](https://user-images.githubusercontent.com/18400730/181667546-33973586-e969-4626-aa38-fea81ec80db8.png)
+본인의 branch를 선택한 뒤, 내용을 작성한다
+![image](https://user-images.githubusercontent.com/18400730/181667884-b0eea43c-8869-49e1-b954-de1c23bc6be6.png)
+마무리로 Create pull request를 하면 끝!
