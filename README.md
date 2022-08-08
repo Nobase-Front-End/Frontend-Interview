@@ -41,7 +41,8 @@ git clone https://github.com/Nobase-Front-End/Frontend-Interview.git
 ## ✨ Weekly Guide
 
 ### 💡 일주일에 Pull Request 1개+
-  - PR시 제목에 이슈 번호를 함께 적어주세요. (제목 예시 : `Resolves #이슈번호`) 
+  - PR 제목은 자유롭게 (ex. [1주차] 브라우저 렌더링 과정) 이해하기 쉽게 정해주세요! 
+  - PR시 내용에 이슈 번호를 함께 적어주세요. (내용 예시 : `관련 이슈 : resolve #이슈번호`, `관련 이슈 : close #이슈번호`) 
   - 5명의 Approve가 있으면 Merge 가능합니다.   
   - 리뷰를 적극적으로 반영해주세요.  
  
@@ -49,7 +50,7 @@ git clone https://github.com/Nobase-Front-End/Frontend-Interview.git
   - 전 주에 올라온 Pull Request에 대해 리뷰를 남기면 됩니다.
     - 예를 들면 1주차의 PR에 대해서 2주차까지 리뷰가 진행됩니다.
     - 잘못된 내용, 부족한 부분, 궁금한 내용
-  - 저자가 리뷰를 반영했다면 Approve를 눌러주세요.
+  - 저자가 리뷰를 반영했다면 Approve를 꼭 눌러주세요.
 
 
 <br>
