@@ -53,7 +53,7 @@ var sayHi와 var sayBye, 그리고 function sayHi와 function sayBye 순으로 �
 ## 변수의 생성 과정
 
 - **var 키워드 변수**
-  var 키워드 변수는 런타임 이전에 선언 단계와 초기화 단계가 동시에 진행됩니다. 즉, 자바스크립트 실행 컨텍스트에 변수를 등록하는 동시에 undefined로 만들어버리게됩니다. 그래서 변수에 값이 할당되기 전에 호출을 해도, Reference Error가 발생하게 되고, undefined가 리턴됩니다.
+  var 키워드 변수는 런타임 이전에 선언 단계와 초기화 단계가 동시에 진행됩니다. 즉, 자바스크립트 실행 컨텍스트에 변수를 등록하는 동시에 undefined로 만들어버리게됩니다. 그래서 변수에 값이 할당되기 전에 호출을 해도, Reference Error가 발생하지 않고, undefined가 리턴됩니다.
 
 - **let, const 키워드 변수**
   let, const 키워드는 var 키워드와 다르게 선언 단계와 초기화 단계가 분리되어 진행됩니다. 실행 컨텍스트에 변수를 등록했지만, 메모리에 할당되지 않아 접근할 수 없습니다. 그래서 Reference Error가 발생하게 됩니다.
@@ -61,8 +61,6 @@ var sayHi와 var sayBye, 그리고 function sayHi와 function sayBye 순으로 �
   - 일시적 사각지대(TDZ)란?<br>
     스코프 시작 지점부터 초기화 시작 지점까지 변수를 참조할 수 없는 구간을 의미합니다.<br>
     <br>
-- **function 키워드 함수**
-  함수 표현식의 경우, 선언 / 초기화 / 할당 단계가 모두 동시에 진행됩니다. 그래서 할당 전에 호출해도 undefined가 아니라, 함수 내용이 리턴되게 됩니다. <br><br>
 
 ---
 
