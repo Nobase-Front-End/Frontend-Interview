@@ -18,10 +18,31 @@ git clone https://github.com/Nobase-Front-End/Frontend-Interview.git
 - 주제는 지속적으로 추가될 예정이며, 원하는 주제가 있으면 Issue에 남겨주세요.
 <br>
 
-### 🗓 1주차 주제 (7/27 ~ )
+### 📝 Todo
+
+- [ ] 2. Virtual DOM (vs Real DOM)
+- [ ] 11. Semantic Markup
+- [ ] 13. Image/SVG Sprite
+- [ ] 15. CSS
+- [ ] 18. 스코프 체인
+- [ ] 22. 프로토타입 상속 과정
+- [ ] 23. 자바스크립트의 함수
+- [ ] 28. FOUC 해결하기
+- [ ] 29. 스프레드 문법과 Rest 파라미터
+- [ ] 31. this 바인딩
+- [ ] 33. 클래스 vs 프로토타입 생성자 함수
+- [ ] 34. ES6의 주요 변화
+- [ ] 35. 아스키코드와 유니코드
+- [ ] 37. 이벤트 (스로틀링과 디바운스)
+- [ ] 38. 비동기 (이벤트 루프, 태스크 큐)
+- [ ] 39. 모듈
+- [ ] 40. Webpack과 Babel
+- [ ] 41. localhost와 port
+- [ ] 42. MVC 패턴
+
+### 🎖 Archieved
 
 - [x] 1. 로컬 스토리지, 세션 스토리지, 쿠키
-- [ ] 2. Virtual DOM (vs Real DOM)
 - [x] 3. 브라우저 동작 원리 (네트워크 관점)
 - [x] 4. 브라우저 동작 원리 (렌더링 관점)
 - [x] 5. CSR(Client Side Rendering) / SSR(Server Side Rendering)
@@ -30,42 +51,20 @@ git clone https://github.com/Nobase-Front-End/Frontend-Interview.git
 - [x] 8. CORS (Cross-origin resource sharing)
 - [x] 9. REST API
 - [x] 10. Web Accessibility
-- [ ] 11. Semantic Markup
 - [x] 12. SEO (Search Engine Optimization)
-- [ ] 13. Image/SVG Sprite
 - [x] 14. HTML (HTML vs XHTML)
-- [ ] 15. CSS
 - [x] 16. HTTP (HTTP1.0 vs HTTP2.0)
-<br>
-
-### 🗓 2주차 주제 (8/16 ~ )
-
 - [x] 17. let, var, const(스코프 관점, 언제 사용하는지)
-- [ ] 18. 스코프 체인
 - [x] 19. 호이스팅 (변수 호이스팅, 함수 호이스팅)
 - [x] 20. 옵셔널 체이닝 (null 병합 연산자, 논리 연산자와의 차이, null과 undefined의 차이)
 - [x] 21. 일급 객체와 함수형 프로그래밍 (자바스크립트 멀티 패러다임)
-- [ ] 22. 프로토타입 상속 과정
-- [ ] 23. 자바스크립트의 함수
 - [x] 24. 자바스크립트의 sort() (Tim sort())
 - [x] 25. 재귀 vs 반복문 (ex.피보나치 함수를 자바스크립트로 각각 재귀, 반복문으로 구현해보고 차이점)
 - [x] 26. 얕은 복사, 깊은 복사
 - [x] 27. 불변 객체
-- [ ] 28. FOUC 해결하기
-<br>
-
-### 🗓 3주차 주제 (8/29 ~ )
-
-- [ ] 29. 스프레드 문법과 Rest 파라미터
-- [ ] 30. 프로토타입 체인과 스코프 체인
-- [ ] 31. this 바인딩
-- [ ] 32. 클로저
-- [ ] 33. 클래스 vs 프로토타입 생성자 함수
-- [ ] 34. ES6의 주요 변화
-- [ ] 35. 아스키코드와 유니코드
-- [ ] 36. 배열 자료구조와 자바스크립트의 배열의 차이
-
-<br>
+- [x] 30. 프로토타입 체인과 스코프 체인
+- [x] 32. 클로저
+- [x] 36. 배열 자료구조와 자바스크립트의 배열의 차이
 
 ## ✨ Weekly Guide
 
